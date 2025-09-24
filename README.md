@@ -16,3 +16,6 @@ University student at ITESM, Guadalajara 🇲🇽 | Robotics Engineering 🤖 | 
 
 # About me
 I’m passionate about coding 💻 and technologies ⚡, love learning new tools 🛠️ and programming languages 📝. Experienced in problem-solving 🧩 and thrive when working in teams 🤝.
+
+# Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MarianaEileen)](https://git.io/streak-stats)
