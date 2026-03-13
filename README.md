@@ -1,7 +1,7 @@
 # Hello, I'm Mariana! 💗
 
 
-University student at ITESM, Guadalajara 🇲🇽 | Robotics Engineering 🤖 | She/Her | 🇲🇽
+University student at ITESM, Guadalajara 🇲🇽 | Robotics Engineering 🤖 | She/Her 
 
 
 # Languages 🧩
